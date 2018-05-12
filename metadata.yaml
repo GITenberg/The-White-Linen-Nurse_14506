@@ -1,0 +1,33 @@
+_repo: The-White-Linen-Nurse_14506
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, Eleanor Hallowell
+    alias: Coburn, Fordyce, Mrs.
+    birthdate: 1872
+    deathdate: 1958
+    gutenberg_agent_id: '5556'
+    url: http://www.gutenberg.org/2009/agents/5556
+    wikipedia: http://en.wikipedia.org/wiki/Eleanor_Hallowell_Abbott
+description: Rae Malgregor went into the profession of nursing with the best of intentions,
+  but she soon finds that her expectations were vastly different than the reality
+  of her new job. Burnt out and mired in despair, she begs for intervention and soon
+  finds herself caring for a young invalid girl. Before long, her life begins to change
+  in ways she never could have imagined. The White Linen Nurse is a hilariously engaging
+  tale that will charm modern-day readers.
+gutenberg_issued: '2004-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Nurses -- Fiction'
+title: The White Linen Nurse
+url: http://www.gutenberg.org/ebooks/14506
